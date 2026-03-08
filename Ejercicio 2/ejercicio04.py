@@ -1,0 +1,2 @@
+class bus():
+    def (self)
